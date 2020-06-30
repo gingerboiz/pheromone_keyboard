@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:pheromone_ansi-cache
+LIBS:pheromone-cache
 EELAYER 30 0
 EELAYER END
 $Descr A2 23386 16535
@@ -1022,7 +1022,7 @@ AR Path="/5E17E54F/5E242C48" Ref="K?"  Part="1"
 AR Path="/5E242C48" Ref="K16"  Part="1" 
 F 0 "K16" H 2150 6933 60  0000 C CNN
 F 1 "KEYSW" H 2150 6600 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX_optional" H 2150 6700 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1.5U-Hotswap" H 2150 6700 60  0001 C CNN
 F 3 "" H 2150 6700 60  0000 C CNN
 	1    2150 6700
 	1    0    0    -1  
@@ -1438,7 +1438,7 @@ AR Path="/5E17E54F/5E26317E" Ref="K?"  Part="1"
 AR Path="/5E26317E" Ref="K29"  Part="1" 
 F 0 "K29" H 2150 7683 60  0000 C CNN
 F 1 "KEYSW" H 2150 7350 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX_optional" H 2150 7450 60  0001 C CNN
+F 2 "MX_Only:MXOnly-1.75U-Hotswap" H 2150 7450 60  0001 C CNN
 F 3 "" H 2150 7450 60  0000 C CNN
 	1    2150 7450
 	1    0    0    -1  
@@ -1886,7 +1886,7 @@ AR Path="/5E17E54F/5E26326E" Ref="K?"  Part="1"
 AR Path="/5E26326E" Ref="K43"  Part="1" 
 F 0 "K43" H 3250 8433 60  0000 C CNN
 F 1 "KEYSW" H 3250 8100 60  0001 C CNN
-F 2 "keyswitches:Kailh_socket_MX_optional" H 3250 8200 60  0001 C CNN
+F 2 "MX_Only:MXOnly-2U-Hotswap-ReversedStabilizers" H 3250 8200 60  0001 C CNN
 F 3 "" H 3250 8200 60  0000 C CNN
 	1    3250 8200
 	1    0    0    -1  
